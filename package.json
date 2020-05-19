@@ -1,0 +1,9 @@
+{
+  "name": "random-state-generator",
+  "version": "0.0.0",
+  "description": "Random State Generator",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
